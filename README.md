@@ -1,1 +1,1 @@
-# Aula2_RA6322501
+# Atividade para a aula de POO - Prof. Katia
